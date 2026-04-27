@@ -1,118 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Habib%20Ur%20Rahman&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20AI%20Developer%20%7C%20Future%20Wala&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a2e,50:1a1a6e,100:0066cc&height=220&section=header&text=Habib%20Ur%20Rahman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Future%20Wala&descAlignY=58&descSize=18&fontStyle=bold" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0066CC&center=true&vCenter=true&width=600&lines=Building+AI+Products+from+Pakistan;Full-Stack+%2B+AI+%2B+E-Commerce+Developer;Founder+of+Future+Wala;Open+to+Freelance+%26+Collaboration)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Habib
+<div align="center">
 
-I'm a CS student from **Rustam, KPK, Pakistan** — building real things at the 
-intersection of **AI and e-commerce**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habiburrahman-ai-ecommerce/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/futurewala1/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@futurewala1)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HabibUr11142637)
+[![Website](https://img.shields.io/badge/futurewala.com-0066CC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://futurewala.com)
 
-I run **Future Wala** 🚀 — a platform helping Pakistani people learn AI tools, 
-build online businesses, and earn from the internet. No fluff. Just real stuff.
-
-> *"Main sirf seekh nahi raha — main bana bhi raha hoon."*
+</div>
 
 ---
 
-## 🔨 What I'm Building Right Now
+## About Me
 
-| Project | What it does | Stack |
+I'm a **Full-Stack & AI Developer** from Rustam, KPK, Pakistan — currently pursuing BS Computer Science at the University of Peshawar.
+
+I don't just study code. I ship products. I build AI-powered tools, e-commerce platforms, and automation systems that solve real problems for real people. My work sits at the intersection of modern web development, machine learning, and business strategy.
+
+I run **Future Wala** — a platform dedicated to helping Pakistani digital entrepreneurs learn AI, build online businesses, and earn from the internet. No hype. Just execution.
+
+---
+
+## What I'm Building
+
+| Project | Description | Stack |
 |---------|-------------|-------|
-| 🤖 **Jobaura** | AI-powered CV & job prep tool | Gradio + Groq API |
-| 🌿 **HabibOil** | Cold-pressed mustard oil brand with AI chatbot | Flask + Meta API |
-| 👟 **KhyberSole** | Handmade Peshawari Chappal e-commerce | Next.js + Supabase |
-| 🏘️ **HPD** | Property listings for KPK market | Next.js + Supabase |
-| 🎥 **Future Wala** | AI & tech content for Pakistan | YouTube + TikTok |
+| **Jobaura** | AI-powered CV builder and job prep assistant | React, Groq API, Gradio |
+| **HabibOil** | Cold-pressed mustard oil brand with AI WhatsApp chatbot | Flask, Meta Cloud API |
+| **KhyberSole** | Premium Peshawari Chappal e-commerce platform | Next.js, Supabase |
+| **HPD** | Property listing platform for KPK real estate market | Next.js, Supabase |
+| **Future Wala** | AI and tech content ecosystem for Pakistani audience | YouTube, TikTok, Web |
 
 ---
 
-## 🛠️ My Tech Stack
+## Technical Stack
 
-**Languages**
+**Frontend Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Frameworks & Tools**
+**Backend Development**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-**AI & APIs**
+**AI & Machine Learning**
 
-![Groq](https://img.shields.io/badge/Groq_API-FF6B00?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_APIs-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
-![Meta API](https://img.shields.io/badge/Meta_API-0866FF?style=flat-square&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_API-FF6B00?style=flat-square)
+![MindSpore](https://img.shields.io/badge/MindSpore-0066CC?style=flat-square)
 
-**Platforms**
+**Database & Cloud**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
+
+**E-Commerce & CMS**
 
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=habiburrahman849&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman849&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=habiburrahman849&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0066cc&icon_color=0066cc" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiburrahman849&layout=compact&theme=tokyonight&hide_border=true&title_color=0066cc" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman849&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=habiburrahman849&theme=tokyonight&hide_border=true&ring=0066cc&fire=0066cc&currStreakLabel=0066cc" />
+
 </div>
 
 ---
 
-## 🎓 Background
+## Professional Background
 
-- 📚 **BS Computer Science** — University of Peshawar (2024–2028) | CGPA: 3.47
-- 🏪 **Daraz Seller** — 30,000+ sales (2020–2025)
-- 💼 **Freelancer** — Fiverr, Upwork, Guru (Web Dev, AI, Shopify)
-- 🏆 **Huawei Certified** Cloud Computing Specialist
+**Education**
+- BS Computer Science — University of Peshawar (2024–2028) | CGPA: 3.97
+- Diploma in Information Technology — BTCE Peshawar (2024–2025)
 
----
+**Experience**
+- Freelance Developer — Fiverr, Upwork, Guru (3+ years | Web Dev, AI, Shopify, WooCommerce)
+- E-Commerce Manager — Daraz (2020–2025 | 3000+ sales)
+- Founder — Future Wala (2024–Present)
 
-## 🌍 Future Wala — My Brand
-
-**Future Wala** is my content + product ecosystem built for Pakistani 
-digital entrepreneurs. Think: YouTube + AI tools + e-commerce education — 
-all in Urdu/Hinglish, made for people who want to earn online.
-
-[![YouTube](https://img.shields.io/badge/YouTube-Future_Wala-red?style=for-the-badge&logo=youtube)](https://youtube.com/@futurewala)
-[![Instagram](https://img.shields.io/badge/Instagram-futurewala1-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/futurewala1/)
-[![TikTok](https://img.shields.io/badge/TikTok-futurewala1-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@futurewala1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/habiburrahman-ai-ecommerce/)
+**Certifications**
+- Huawei Certified Cloud Computing Specialist
+- Chatbot Development with Voiceflow
+- Search and AI — Huawei
 
 ---
 
-## Let's Talk
+## Future Wala
 
-Got a project idea? Want to collaborate? Or just want to say salam?
+**Future Wala** is my personal brand and content ecosystem. The mission is simple: give Pakistani developers, students, and entrepreneurs the tools, knowledge, and confidence to build real things and earn online — in their own (URDU) language.
 
-**WhatsApp (Business):** [0304-8907756](https://wa.me/923048907756)  
-**Email:** hu045444@gmail.com  
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@futurewala)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/futurewala1/)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@futurewala1)
+
+</div>
+
+---
+
+## Let's Work Together
+
+I'm open to freelance projects, collaborations, and consulting — especially in AI integration, full-stack web development, and e-commerce automation.
+
+**Business WhatsApp:** [+92 304 890 7756](https://wa.me/923048907756)
+**Email:** hu045444@gmail.com
+**LinkedIn:** [habiburrahman-ai-ecommerce](https://www.linkedin.com/in/habiburrahman-ai-ecommerce/)
 **Website:** [futurewala.com](https://futurewala.com)
 
 ---
 
 <div align="center">
 
-*Built with chai ☕ and ambition — from KPK, Pakistan 🇵🇰*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066cc,100:0a0a2e&height=100&section=footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=100&section=footer" />
+*Crafted with precision — from KPK, Pakistan*
 
 </div>
